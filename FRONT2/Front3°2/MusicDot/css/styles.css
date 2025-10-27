@@ -1,0 +1,35 @@
+body{
+    font-family: "Helvetica", "Lucida Grande", sans-serif;
+    color: #3D3D3D;
+}
+
+#subtitulo {
+    background-color: #ffffff;
+    text-decoration: none;
+}
+#subtitulo:hover {
+    color: #0000ff;
+    text-decoration: dotted;
+
+}
+
+
+h1{
+    background-color: #E1EDF2;
+}
+
+h2 {
+  border-bottom: 2px solid black;
+}
+
+figure {
+    text-align: center;
+
+    background-color: whitesmoke;
+    border: 1px solid lightgrey;
+ }
+
+ p{
+    padding: 15px;
+    padding-left: 15px;
+ }
